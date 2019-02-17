@@ -19,7 +19,7 @@ pipenv install pyfirmata
 
 ## Sample code to blink led
 
-````
+```python
 try:
   from pyfirmata import Arduino, util
 except:
