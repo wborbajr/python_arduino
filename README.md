@@ -10,7 +10,7 @@ File
     Firmata
       StandardFirmata
 ```
-![Screenshot](screenshot.png)
+![Screenshot](screenshot01.png)
 
 ## Compile and upload to Arduino      
 
